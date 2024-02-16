@@ -1,6 +1,3 @@
-# alexcgDevv.github.io
-Portfolio d'Alexandre Cholette Gougeon
-
 ## Ceci est un test
 #### The standard Lorem Ipsum passage, used since the 1500s
 
