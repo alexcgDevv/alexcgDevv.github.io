@@ -42,7 +42,7 @@ Brève présentation : après un début dans le domaine de l'enseignement, ma pa
 
 ## Portfolio
 
-- API microservices (Flask), IA du jeu d’Othello (C++), modèles d’apprentissage automatique (Python), traitement d'images (Python), intégration de Leaflet dans une app, jeu de Battleship (assembleur PEP 8).
+- À venir
 
 ---
 
