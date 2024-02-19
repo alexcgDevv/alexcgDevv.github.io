@@ -1,5 +1,3 @@
-# Alexandre - Développeur Full Stack
-
 ## Présentation
 
 Bonjour! Je viens de terminer mon baccalauréat en informatique et génie logiciel, et je suis à la recherche de mon premier emploi à temps plein. Ayant une passion pour l'informatique qui a pris le dessus sur mon début de carrière dans l'enseignement, je suis aujourd'hui orienté vers un changement de carrière qui m'a mené où je suis. Avec une grande aisance en communication et un esprit d'équipe fort, je suis prêt à apporter une touche unique à votre équipe.
