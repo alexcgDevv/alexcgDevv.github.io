@@ -22,10 +22,11 @@ Brève présentation : après un début dans le domaine de l'enseignement, ma pa
 
 ### Ville de Marieville — Coordonnateur de camps de jour
 - *Mai 2023 à Aujourd'hui* (Temps partiel)
+  - Gestion du personnel, des parents, programmations, sorties, activités pédagogiques
   - Travail sur des outils de gestion tels que fichiers Excel, modèles d’horaire, inventaires.
 
 ### Tim Hortons, Richelieu — Superviseur/Service à la clientèle
-- *Août 2014 à Août 2017* (Temps partiel)
+- *Août 2014 à Août 2017* 
 
 #### Autres expériences
 - Animateur camps de jour (2016-2022), service à la clientèle chez Ogym (2017-2019), animateur à la maison des jeunes de Richelieu (2018).
