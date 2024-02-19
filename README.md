@@ -18,7 +18,7 @@ Brève présentation : après un début dans le domaine de l'enseignement, ma pa
 ## Expérience
 
 ### Centre de Services scolaires de Montréal — Enseignant
-- *Mois 2019 à Aujourd'hui* (Temps partiel)
+- *Mois 2019 à Aujourd'hui*
 
 ### Ville de Marieville — Coordonnateur de camps de jour
 - *Mai 2023 à Aujourd'hui* (Temps partiel)
